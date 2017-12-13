@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ejemplo2</string>
+    <array name="itemMenuPrincipal">
+        <item>Operaciones</item>
+        <item>Dinamica</item>
+        <item>Acerca de</item>
+        <item>Salir</item>
+    </array>
+
+
+    <array name="spinnerOperaciones">
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplicación</item>
+        <item>División</item>
+    </array>
+</resources>

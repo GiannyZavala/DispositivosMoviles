@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".Menu">
+
+    <item android:id="@+id/menu"
+          android:title="Menu Contextual 1"/>
+
+
+    <item android:id="@+id/menu2"
+        android:title="Menu Contextual 2"/>
+
+    <item android:id="@+id/menu3"
+        android:title="Menu Contextual 3"/>
+
+    <item android:id="@+id/menu4"
+        android:title="Menu Contextual 4"/>
+</menu>
